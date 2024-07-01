@@ -1,3 +1,4 @@
+For Detailed info go through the Thesis and Project PPT Provided
 
 This project addresses the complexities of Vision-Based Underwater Docking for Autonomous Underwater Vehicles (AUVs). It confronts challenges inherent in underwater environments, such as turbid water, light scattering, low visibility in deep oceanic regions, and environmental pollution. The primary objective is to develop a robust detection algorithm capable of excelling in adverse underwater conditions. State-of-the-art detection algorithms, including YOLO v8 and Detection Transformer, are leveraged to enhance accuracy, with a particular focus on overcoming data limitations through innovative approaches.
 
